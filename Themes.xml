@@ -1,6 +1,10 @@
 <themes>
 <data xmls="https://raw.githubusercontent.com/ahmedkhbas/Thems/main/Xml/" walls="https://raw.githubusercontent.com/ahmedkhbas/Thems/main/Wall/" scs="https://raw.githubusercontent.com/ahmedkhbas/Thems/main/Screen/"/>
 <theme>
+<title>Car_Theme</title>
+<date>22/09/2024</date>
+  </theme>
+  <theme>
 <title>ADMods_lead</title>
 <date>24/08/2024</date>
   </theme>
