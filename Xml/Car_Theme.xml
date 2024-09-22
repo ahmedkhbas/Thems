@@ -94,7 +94,7 @@
     <int name="ModConColor" value="-15720400" />
     <string name="key_custom_iconup">0</string>
     <string name="tick_style">ios</string>
-    <boolean name="hide_fab" value="true" />
+    <boolean name="hide_fab" value="false" />
    
     <boolean name="key_hide_scrollup" value="false" />
     <int name="tabindicator" value="-16777216" />
