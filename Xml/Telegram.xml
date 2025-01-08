@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChaSendBKColor" value="-10049056" />
+    <boolean name="ModDarkConPickColor_Gactive" value="false" />
+    <string name="key_quick_position">top</string>
+    <boolean name="multiChats" value="false" />
+    <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
+    <boolean name="hide_action_s" value="false" />
+    <int name="ModFabNormalColor" value="-10049056" />
+    <boolean name="newAttach_BottomDesign" value="false" />
+    <boolean name="hide_action_m" value="false" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="Audio_sensor" value="true" />
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatColor" value="-10049056" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="HideName_row" value="false" />
+    <boolean name="isSwipeEnabledV2" value="false" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <int name="ModConPickColor" value="-10049056" />
+    <boolean name="entry_translate" value="true" />
+    <boolean name="onlinechat" value="false" />
+    <boolean name="ModChaSendBKColor_Gactive" value="false" />
+    <string name="ConvoEntry">7</string>
+    <int name="ModConColor" value="-10049056" />
+    <string name="tick_style">ios</string>
+    <boolean name="read_more" value="false" />
+    <boolean name="hide_fab" value="false" />
+    <int name="ModDarkConPickColor" value="-10049056" />
+    <boolean name="key_directt_link" value="false" />
+    <boolean name="naljaede_key_fab_caht" value="false" />
+    <boolean name="Archv_chats" value="false" />
+    <boolean name="key_quick_view" value="true" />
+    <boolean name="bubble_more_options_dlg" value="false" />
+    <boolean name="my_name" value="false" />
+    <boolean name="disableDTTL" value="false" />
+    <boolean name="custom_wall" value="false" />
+    <boolean name="elapsed_time" value="false" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <boolean name="ModFabNormalColor_Gactive" value="false" />
+    <boolean name="hide_action_a" value="false" />
+    <boolean name="hide_action_b" value="false" />
+    <boolean name="Audio_ears" value="false" />
+    <boolean name="arch_chats_top" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="ModChatColor_Gactive" value="false" />
+    <string name="bubble_style">yousef</string>
+    <boolean name="onlineDotchat" value="false" />
+    <boolean name="ModConPickColor_Gactive" value="false" />
+    <string name="HomeEntry">telegram</string>
+    <boolean name="grpAdmin_enabled" value="true" />
+    <boolean name="status_wantsendconfirmation" value="false" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <int name="ModDarkConPickColorNav" value="-10049056" />
+    <boolean name="New_Select_Message" value="false" />
+    <boolean name="AttBt" value="false" />
+    <int name="main_text" value="17" />
+    <boolean name="ModConColor_Gactive" value="false" />
+    <int name="text_size_pick" value="16" />
+</map>
