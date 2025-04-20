@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChaSendBKColor" value="-474944" />
+    <int name="quoted_text_picker" value="-16777216" />
+    <boolean name="key_dwh_wave_run" value="true" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="true" />
+    <boolean name="imsHideVStatus" value="false" />
+    <boolean name="date_bubble_color_picker_Gactive" value="false" />
+    <boolean name="newAttach_BottomDesign" value="true" />
+    <boolean name="Conv_call_btn" value="false" />
+    <int name="key_dwh_setDrawer_background_GOrient" value="4" />
+    <boolean name="Hide_div" value="true" />
+    <int name="yo_toast_status_rd" value="10" />
+    <int name="key_dwh_home_header_banner_elevation" value="3" />
+    <int name="key_dwh_setRadius_background_stories" value="7" />
+    <boolean name="HomeBarText_Gactive" value="false" />
+    <boolean name="list_bg_color_Gactive" value="false" />
+    <int name="key_dwh_size_row" value="78" />
+    <int name="yo_toast_status_bc" value="-12891564" />
+    <int name="yo_toast_profile_bc" value="-12891564" />
+    <boolean name="onlinechat" value="true" />
+    <string name="key_dwh_toast_duration">7</string>
+    <boolean name="key_dwh_toast_typing" value="false" />
+    <int name="dwh_borderBackground_stories" value="0" />
+    <string name="key_dwh_toast_online_gravity">0</string>
+    <boolean name="enable_fivminstatus" value="false" />
+    <int name="yo_toast_online_tc" value="-1" />
+    <string name="ui_home_styleV3">one</string>
+    <int name="key_dwh_setBg_headerDrawer" value="-464664" />
+    <boolean name="yo_toast_online_cs" value="true" />
+    <int name="key_dwh_size_avatar_quick_contact" value="133" />
+    <string name="convostyle">3</string>
+    <int name="yo_toast_profile_rd" value="10" />
+    <int name="HomeCounterBK" value="-15221" />
+    <int name="ModChatBubbleTextLeft" value="-16777216" />
+    <int name="ModHomeMentionIconColor" value="-16777216" />
+    <string name="key_dwh_quick_chat_posistion">top</string>
+    <boolean name="enable_grp_separationV2" value="true" />
+    <int name="quoted_divider_picker" value="-2198669" />
+    <int name="key_dwh_setRounded_quick_contact" value="7" />
+    <int name="key_dwh_border_avatar_quick_contact" value="-464664" />
+    <int name="ModFabTextColor" value="-464664" />
+    <int name="list_bg_color" value="0" />
+    <int name="key_dwh_setText_clock" value="-16777216" />
+    <boolean name="bubble_more_options_dlg" value="false" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <int name="key_counter_tx" value="-16777216" />
+    <int name="HomeCounterText" value="-464664" />
+    <int name="key_dwh_setRounded_avatar_stories" value="7" />
+    <int name="key_dwh_setBackground_stories" value="0" />
+    <boolean name="yo_toast_online_view" value="true" />
+    <boolean name="arch_chats_top" value="false" />
+    <int name="key_dwh_setFab_textColor" value="-16777216" />
+    <boolean name="onlineDotchat" value="true" />
+    <int name="ModChatBubbleHyperlinks" value="-2198669" />
+    <boolean name="yo_toast_profile_cs" value="true" />
+    <int name="yo_toast_profile_tc" value="-1" />
+    <int name="ModlastseenColor" value="-26215" />
+    <boolean name="yo_toast_online_el" value="true" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <string name="key_dwh_style_icon_cam">2</string>
+    <boolean name="status_wantsendconfirmation" value="true" />
+    <boolean name="key_dwh_hide_titulo_oneui_home" value="true" />
+    <int name="ModDarkConPickColorNav" value="-464664" />
+    <int name="key_dwh_row_elevation" value="5" />
+    <int name="BGColor" value="-654319679" />
+    <boolean name="yo_toast_status_view" value="true" />
+    <boolean name="enable_statuspage_extras" value="true" />
+    <string name="HISTORY">[-466720,-10463160,-9079435,-1,-471129,0,-788993816,-26215,-15221,-2157034,-2191292,620290272,-474944,-856104736,-464664,-2198669,-16777216,-654319679,-8255]</string>
+    <int name="quoted_bg_picker" value="620290272" />
+    <int name="yo_toast_typing_rd" value="10" />
+    <boolean name="statuschat" value="false" />
+    <boolean name="quoted_divider_picker_Gactive" value="false" />
+    <boolean name="multiChats" value="false" />
+    <boolean name="key_dwh_background_home_tab_selected_color_Gactive" value="true" />
+    <int name="ModChatEmojiColor" value="-16777216" />
+    <boolean name="ModChaSendColor_Gactive" value="false" />
+    <int name="ModChaSendColor" value="-16777216" />
+    <int name="pagetitle_sel_picker" value="-10463160" />
+    <boolean name="yo_toast_status_el" value="true" />
+    <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
+    <int name="key_dwh_setBg_dateTime" value="-464664" />
+    <int name="key_counter_bg" value="-474944" />
+    <string name="key_version">DWHWhatsApp+ V9.63</string>
+    <int name="ModChatColor" value="-464664" />
+    <boolean name="key_dwh_view_search_custom" value="true" />
+    <boolean name="key_dwh_setView_fabChat" value="true" />
+    <string name="key_dwh_icon_revoke_style">0</string>
+    <boolean name="key_dwh_hide_search_icon" value="false" />
+    <int name="tabadgeBKColor" value="-471129" />
+    <int name="key_dwh_icon_quickcontact" value="-16777216" />
+    <int name="key_dwh_set_background_avatar_stories" value="0" />
+    <boolean name="emojipopup_header_Gactive" value="true" />
+    <boolean name="HideName_row" value="false" />
+    <boolean name="home_imgBK" value="true" />
+    <boolean name="quoted_name_picker_Gactive" value="false" />
+    <int name="key_dwh_home_header_banner_radius" value="12" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="custom_wall" value="true" />
+    <int name="key_dwh_setDialog_background_GC" value="-215393" />
+    <boolean name="disableOTTO" value="false" />
+    <boolean name="key_dwh_setFab_bgColor_Gactive" value="true" />
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <boolean name="new_style_emoji" value="true" />
+    <boolean name="entry_translate" value="false" />
+    <string name="key_dwh_home_style">4</string>
+    <boolean name="date_right_color_Gactive" value="false" />
+    <int name="tabadgeTextColor" value="-16777216" />
+    <int name="key_dwh_setText_drawer" value="-16777216" />
+    <string name="ConvoEntry">25</string>
+    <boolean name="key_dwh_toast_status" value="false" />
+    <int name="key_dwh_row_radius" value="12" />
+    <int name="ModConColor" value="-464664" />
+    <boolean name="chats_show_contact_online_toast_check" value="true" />
+    <int name="key_dwh_wave_velocity" value="100" />
+    <string name="tick_style">stockorg</string>
+    <int name="key_dwh_setDialog_background" value="-4910" />
+    <int name="key_dwh_home_tab_selected_border_color" value="-464664" />
+    <boolean name="hide_fab" value="false" />
+    <boolean name="ModChatGStatusT_Gactive" value="false" />
+    <int name="key_dwh_setFab_bgColor_GC" value="-215393" />
+    <int name="tabindicator" value="-464664" />
+    <boolean name="yo_toast_typing_cs" value="true" />
+    <boolean name="imsHideMStatus" value="false" />
+    <boolean name="ModChatTextColor_Gactive" value="false" />
+    <int name="yo_toast_typing_tc" value="-1" />
+    <string name="ui_bottom_style">one</string>
+    <int name="key_dwh_set_border_avatar_stories" value="-474944" />
+    <int name="yo_toast_online_bc" value="-12891564" />
+    <boolean name="key_quick_view" value="false" />
+    <boolean name="my_name" value="true" />
+    <int name="pagetitle_picker" value="-16777216" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="BGColor_GC" value="-856104736" />
+    <int name="key_dwh_setText_quick" value="-16777216" />
+    <int name="yo_toast_status_tc" value="-1" />
+    <int name="key_dwh_background_home_tab_selected_color_GOrient" value="4" />
+    <int name="key_dwh_setRounded_fabChat" value="7" />
+    <int name="key_dwh_icon_drawer" value="-10463160" />
+    <boolean name="yo_toast_status_cs" value="true" />
+    <int name="emojipopup_header_GC" value="-856104736" />
+    <boolean name="hide_action_a" value="false" />
+    <boolean name="hide_action_b" value="false" />
+    <boolean name="key_dwh_view_toast_avatar" value="true" />
+    <int name="key_dwh_background_home_tab_selected_color_GC" value="-339772" />
+    <string name="key_url">http://bit.ly/DWHWhatsAppUpdate</string>
+    <boolean name="key_dwh_toast_custom" value="true" />
+    <boolean name="quoted_text_picker_Gactive" value="false" />
+    <boolean name="key_dwh_hide_archive_drawer" value="false" />
+    <int name="key_dwh_size_border_avatar_quick_contact" value="3" />
+    <boolean name="ModConPickColor_Gactive" value="false" />
+    <string name="HomeEntry">yousef</string>
+    <int name="key_dwh_setBackground_quick" value="-464664" />
+    <boolean name="statuses_bar_text_picker_Gactive" value="false" />
+    <int name="yo_toast_typing_bc" value="-12891564" />
+    <int name="date_divider_color_picker" value="-16777216" />
+    <boolean name="New_Select_Message" value="false" />
+    <int name="main_text" value="17" />
+    <boolean name="ModChatRightBubble_Gactive" value="false" />
+    <int name="key_dwh_text_size_date_span_home_header_banner" value="12" />
+    <int name="yo_toast_online_rd" value="10" />
+    <boolean name="ModConColor_Gactive" value="false" />
+    <int name="text_size_pick" value="16" />
+    <int name="key_dwh_setBorder_quick_contact" value="-471129" />
+    <boolean name="yo_toast_profile_view" value="false" />
+    <int name="key_name_stories" value="-16777216" />
+    <int name="ModChatBubbleText" value="-16777216" />
+    <int name="rvkdmsg_icon_color" value="-2157034" />
+    <boolean name="ModChatGStatusB_Gactive" value="false" />
+    <string name="key_quick_position">top</string>
+    <int name="emojipopup_icons" value="-16777216" />
+    <boolean name="quoted_bg_picker_Gactive" value="false" />
+    <int name="key_dwh_quick_chat_background" value="-8255" />
+    <int name="key_dwh_wave_height" value="15" />
+    <int name="key_dwh_setBorder_dateTime" value="-16777216" />
+    <int name="key_dwh_setText_infoProfil" value="-16777216" />
+    <boolean name="hide_action_s" value="false" />
+    <int name="ModFabNormalColor" value="-15221" />
+    <boolean name="yo_toast_typing_el" value="true" />
+    <boolean name="hide_action_l" value="false" />
+    <int name="ModContactNameColor" value="-16777216" />
+    <boolean name="hide_action_m" value="false" />
+    <int name="key_dwh_toast_rounded" value="25" />
+    <boolean name="Audio_sensor" value="true" />
+    <boolean name="key_dwh_quick_chat_view" value="true" />
+    <int name="UnSeenColor" value="-15221" />
+    <int name="key_dwh_setFab_bgColor" value="-4910" />
+    <boolean name="key_dwh_toast_profile" value="false" />
+    <boolean name="BGColor_Gactive" value="true" />
+    <int name="date_right_color" value="-2198669" />
+    <int name="key_dwh_background_toast_online" value="-8255" />
+    <int name="emojipopup_body" value="-464664" />
+    <string name="key_dwh_toast_typing_gravity">0</string>
+    <boolean name="NameProf" value="false" />
+    <boolean name="ModChatEmojiColor_Gactive" value="false" />
+    <boolean name="emojipopup_body_Gactive" value="false" />
+    <string name="key_dwh_style_icon_overflow">4</string>
+    <int name="key_dwh_search_rounded" value="5" />
+    <boolean name="ModChatBtnColor_Gactive" value="false" />
+    <int name="ModChatRightBubble" value="-654319679" />
+    <int name="emojipopup_header_GCDir" value="0" />
+    <int name="ModChatLeftBubble" value="-856104736" />
+    <boolean name="ModChaSendBKColor_Gactive" value="false" />
+    <int name="key_dwh_setDialog_rounded" value="7" />
+    <int name="key_dwh_setElevation_dialog_card_chat" value="3" />
+    <int name="key_dwh_stroke_contactphoto_row" value="3" />
+    <boolean name="yo_want_airplanemode" value="true" />
+    <int name="key_dwh_setRadius_home_baner" value="12" />
+    <int name="ModDarkConPickColor" value="-464664" />
+    <boolean name="key_directt_link" value="false" />
+    <boolean name="yo_multi_account_menu" value="false" />
+    <boolean name="naljaede_key_fab_caht" value="false" />
+    <boolean name="Archv_chats" value="false" />
+    <string name="yo_toast_typing_gv">0</string>
+    <int name="ModConTextColor" value="-9079435" />
+    <boolean name="key_with_thumb" value="true" />
+    <boolean name="disableDTTL" value="false" />
+    <boolean name="key_dwh_setDialog_background_Gactive" value="true" />
+    <string name="key_dwh_toast_status_gravity">0</string>
+    <boolean name="yo_want_toolbar_camV2" value="true" />
+    <string name="yo_toast_status_gv">0</string>
+    <boolean name="PicProf" value="false" />
+    <int name="BGColor_GCDir" value="0" />
+    <boolean name="date_divider_color_picker_Gactive" value="false" />
+    <boolean name="key_dwh_hide_menu_drawer" value="true" />
+    <int name="key_dwh_setText_contact_quickChat" value="-16777216" />
+    <boolean name="hide_fab_ai" value="true" />
+    <boolean name="SeenColor_Gactive" value="false" />
+    <boolean name="btn_voice_color_chat_picker_Gactive" value="false" />
+    <int name="key_dwh_setDialog_border" value="-856104736" />
+    <boolean name="ModChatColor_Gactive" value="false" />
+    <string name="bubble_style">ios11</string>
+    <string name="key_dwh_style_icon_malam">3</string>
+    <int name="key_dwh_setBg_isiDrawer" value="-464664" />
+    <int name="ModChatBtnColor" value="-16777216" />
+    <boolean name="key_dwh_show_bnr_image" value="true" />
+    <boolean name="ModChatLeftBubble_Gactive" value="false" />
+    <int name="key_dwh_background_home_tab_selected_color" value="-25954" />
+    <boolean name="AttBt" value="false" />
+    <string name="key_dwh_toast_profile_gravity">0</string>
+    <boolean name="key_dwh_hide_number_drawer" value="true" />
+    <boolean name="key_dwh_set_bnr_keburns" value="true" />
+    <int name="date_left_color" value="-2191292" />
+    <int name="key_dwh_setIsi_rounded" value="7" />
+    <boolean name="ModDarkConPickColor_Gactive" value="false" />
+    <boolean name="key_dwh_hide_profile_banner" value="false" />
+    <boolean name="ModChatBubbleText_Gactive" value="false" />
+    <int name="date_bubble_color_picker" value="-464664" />
+    <int name="seekbar_color_chat_picker" value="-2198669" />
+    <boolean name="yo_toast_profile_el" value="true" />
+    <int name="key_dwh_home_tabs_selected_elevation" value="3" />
+    <int name="statuses_bar_bg_picker" value="0" />
+    <int name="ModChatGStatusB" value="-788993816" />
+    <int name="quoted_name_picker" value="-2191292" />
+    <int name="emojipopup_header" value="-654319679" />
+    <boolean name="emojipopup_icons_Gactive" value="false" />
+    <int name="HomeBarText" value="-16777216" />
+    <boolean name="key_dwh_hide_settings_tab_home" value="false" />
+    <boolean name="imsHideRStatus" value="false" />
+    <int name="ModChatGStatusT" value="-16777216" />
+    <int name="key_dwh_setFab_iconColor" value="-16777216" />
+    <int name="key_dwh_setDrawer_background_GC" value="-339772" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="key_dwh_contactphoto_row_size" value="55" />
+    <int name="statuses_bar_text_picker" value="-16777216" />
+    <boolean name="isSwipeEnabledV2" value="false" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <boolean name="seekbar_color_chat_picker_Gactive" value="false" />
+    <boolean name="enable_ig_stories" value="false" />
+    <int name="ModConPickColor" value="-464664" />
+    <int name="key_dwh_rounded_avatar_quick_contact" value="150" />
+    <int name="key_dwh_setText_contact_name" value="-16777216" />
+    <string name="yo_toast_online_gv">0</string>
+    <string name="key_dwh_style_icon_search">2</string>
+    <int name="key_dwh_setFab_bgColor_GOrient" value="4" />
+    <string name="key_story_view">0</string>
+    <int name="key_dwh_size_runtext_home" value="15" />
+    <boolean name="read_more" value="false" />
+    <boolean name="key_dwh_accent_color_Gactive" value="false" />
+    <boolean name="key_dwh_setDrawer_background_Gactive" value="true" />
+    <string name="key_dwh_setStyle_QuickContact">2</string>
+    <string name="key_dwh_style_icon_siang">4</string>
+    <boolean name="date_left_color_Gactive" value="false" />
+    <boolean name="rvkdmsg_icon_color_Gactive" value="false" />
+    <int name="key_dwh_border_avatar_drawer" value="-474944" />
+    <int name="key_dwh_setLine_date_time" value="-464664" />
+    <boolean name="yo_want_nightmode" value="true" />
+    <boolean name="key_dwh_hide_runtext_home" value="false" />
+    <boolean name="UnSeenColor_Gactive" value="false" />
+    <int name="key_dwh_search_elevation" value="5" />
+    <int name="key_dwh_setIsi_borderColor" value="-464664" />
+    <int name="key_dwh_setElevation_background_stories" value="3" />
+    <int name="key_dwh_accent_color" value="-10463160" />
+    <boolean name="key_dwh_hide_archive_home" value="false" />
+    <string name="key_dwh_style_icon_drawer">5</string>
+    <boolean name="custom_wall" value="false" />
+    <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
+    <int name="key_dwh_setText_tanggal" value="-10463160" />
+    <boolean name="ModChatEntry_Gactive" value="false" />
+    <int name="key_dwh_set_size_banner" value="200" />
+    <boolean name="elapsed_time" value="false" />
+    <int name="btn_voice_color_chat_picker" value="-2198669" />
+    <int name="onlineDotchatColor" value="-26215" />
+    <int name="key_dwh_text_toast_online" value="-16777216" />
+    <boolean name="key_dwh_hide_bnnrhdr_homecard" value="false" />
+    <int name="ModHomeMentionIndBackground" value="-474944" />
+    <int name="key_dwh_home_tab_selected_radius" value="12" />
+    <boolean name="Audio_ears" value="false" />
+    <int name="ModChatEntry" value="-8255" />
+    <boolean name="yo_toast_typing_view" value="false" />
+    <int name="key_dwh_setDialog_background_GOrient" value="0" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="statuses_bar_bg_picker_Gactive" value="false" />
+    <int name="ModChatTextColor" value="-16777216" />
+    <int name="key_dwh_rounded_date_time" value="7" />
+    <boolean name="grpAdmin_enabled" value="true" />
+    <boolean name="ModChatBubbleHyperlinks_Gactive" value="false" />
+    <string name="yo_toast_profile_gv">0</string>
+    <boolean name="key_dwh_hide_camera_tabs_home" value="true" />
+    <int name="key_dwh_setFab_borderColor" value="-856104736" />
+    <string name="key_dwh_drawer_style">0</string>
+    <int name="key_dwh_setDrawer_background" value="-25954" />
+    <int name="SeenColor" value="-464664" />
+    <boolean name="yo_want_toolbar_cam" value="true" />
+    <int name="ModOnlineColor" value="-26215" />
+</map>
