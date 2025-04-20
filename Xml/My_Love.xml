@@ -98,7 +98,6 @@
     <boolean name="quoted_name_picker_Gactive" value="false" />
     <int name="key_dwh_home_header_banner_radius" value="12" />
     <boolean name="custom_wall_profilepic" value="false" />
-    <boolean name="custom_wall" value="true" />
     <int name="key_dwh_setDialog_background_GC" value="-215393" />
     <boolean name="disableOTTO" value="false" />
     <boolean name="key_dwh_setFab_bgColor_Gactive" value="true" />
@@ -295,7 +294,7 @@
     <int name="key_dwh_accent_color" value="-10463160" />
     <boolean name="key_dwh_hide_archive_home" value="false" />
     <string name="key_dwh_style_icon_drawer">5</string>
-    <boolean name="custom_wall" value="false" />
+    <boolean name="custom_wall" value="true" />
     <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
     <int name="key_dwh_setText_tanggal" value="-10463160" />
     <boolean name="ModChatEntry_Gactive" value="false" />
