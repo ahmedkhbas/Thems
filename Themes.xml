@@ -1,56 +1,43 @@
 <themes>
-  <data 
-    xmls="https://raw.githubusercontent.com/ahmedkhbas/Thems/main/Xml/" 
-    walls="https://raw.githubusercontent.com/ahmedkhbas/Thems/main/Wall/" 
-    scs="https://raw.githubusercontent.com/ahmedkhbas/Thems/main/Screen/"/>
-  
-  <theme>
-    <title>My_Love</title>
-    <date>21/04/2025</date>
+<data xmls="https://raw.githubusercontent.com/ahmedkhbas/Thems/main/Xml/" walls="https://raw.githubusercontent.com/ahmedkhbas/Thems/main/Wall/" scs="https://raw.githubusercontent.com/ahmedkhbas/Thems/main/Screen/"/>
+<theme>
+<title>My_Love</title>
+<date>21/04/2025</date>
   </theme>
-  
   <theme>
-    <title>Lulu_Katy</title>
-    <date>08/01/2025</date>
+<title>Lulu_Katy</title>
+<date>08/01/2025</date>
   </theme>
-  
   <theme>
-    <title>GreenDarkSorch</title>
-    <date>08/01/2025</date>
+<title>GreenDarkSorch</title>
+<date>08/01/2025</date>
   </theme>
-  
   <theme>
-    <title>Telegram</title>
-    <date>26/12/2024</date>
+<title>Telegram</title>
+<date>26/12/2024</date>
   </theme>
-  
   <theme>
-    <title>Theme_Anmi_Dol</title>
-    <date>26/12/2024</date>
+<title>Theme_Anmi_Dol</title>
+<date>26/12/2024</date>
   </theme>
-  
   <theme>
-    <title>Theme_Ahly_Egypt</title>
-    <date>26/12/2024</date>
+<title>Theme_Ahly_Egypt</title>
+<date>26/12/2024</date>
   </theme>
-  
   <theme>
-    <title>YoRose_OneUI</title>
-    <date>24/12/2024</date>
+<title>YoRose_OneUI</title>
+<date>24/12/2024</date>
   </theme>
-  
   <theme>
-    <title>LightOsi</title>
-    <date>24/09/2024</date>
+<title>LightOsi</title>
+<date>24/09/2024</date>
   </theme>
-  
   <theme>
-    <title>ADMods_lead</title>
-    <date>27/08/2024</date>
+<title>ADMods_lead</title>
+<date>27/08/2024</date>
   </theme>
-  
   <theme>
-    <title>Car_Theme</title>
-    <date>22/09/2024</date>
+<title>Car_Theme</title>
+<date>22/09/2024</date>
   </theme>
-</themes>
+  </themes>
